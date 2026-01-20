@@ -61,7 +61,7 @@ export default function Footer() {
             <ul className="space-y-3 text-sm text-background/70">
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-accent" />
-                <span>hello@bharatyatra.in</span>
+                <span>hello@tourINDIA.in</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-accent" />
@@ -84,7 +84,7 @@ export default function Footer() {
 
         {/* Bottom */}
         <div className="mt-8 pt-8 border-t border-background/10 flex flex-col md:flex-row items-center justify-between gap-4">
-          <p className="text-sm text-background/60">© 2024 Bharat Yatra. Made with ❤️ in India</p>
+          <p className="text-sm text-background/60">© 2024 tourINDIA. Made with ❤️ in India</p>
           <div className="flex items-center gap-4">
             <span className="text-2xl">🇮🇳</span>
             <span className="text-xs text-background/40">जय हिंद</span>
